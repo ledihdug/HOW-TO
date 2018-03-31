@@ -20,3 +20,6 @@
  
  http://deeplearning.net/software/theano/install_ubuntu.html
  
+ Jupyter Notebook
+ 
+ https://qiita.com/cafedrip/items/f944f72016ced4ff4361
