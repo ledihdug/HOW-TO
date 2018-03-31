@@ -23,3 +23,5 @@
  Jupyter Notebook
  
  https://qiita.com/cafedrip/items/f944f72016ced4ff4361
+
+https://devtalk.nvidia.com/default/topic/1024342/cuda-setup-and-installation/unable-to-uninstall-cuda-9-0-completely-and-install-8-0-instead/
