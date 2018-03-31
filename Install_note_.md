@@ -6,6 +6,10 @@
  
  https://qiita.com/sasayabaku/items/2323a2c501e58c0621b6
  
+ 3. Install Cudnn trước khi install Tensorflow
+ 
+ http://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html
+ 
  3.Install Tensorflow
  
  https://www.tensorflow.org/install/install_linux#InstallingAnaconda
