@@ -1,4 +1,4 @@
-1. Install Anacoda
+1. Install Anacoda~
   https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-16-04
  2.Install Driver and Cuda
   https://qiita.com/sasayabaku/items/2323a2c501e58c0621b6
