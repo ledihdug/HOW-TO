@@ -1,16 +1,17 @@
-1. Install Anacoda
+# How To
+## 1. Install Anacoda
 
   https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-16-04
  
- 2.Install Driver and Cuda
+## 2.Install Driver and Cuda
  
  https://qiita.com/sasayabaku/items/2323a2c501e58c0621b6
  
- 3. Install Cudnn trước khi install Tensorflow
+ ## 3. Install Cudnn trước khi install Tensorflow
  
  http://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html
  
- 3.Install Tensorflow
+##  3.Install Tensorflow
  
  https://www.tensorflow.org/install/install_linux#InstallingAnaconda
  
@@ -24,7 +25,7 @@
  
  http://deeplearning.net/software/theano/install_ubuntu.html
  
- Jupyter Notebook
+ ## Jupyter Notebook
  
  https://qiita.com/cafedrip/items/f944f72016ced4ff4361
 
