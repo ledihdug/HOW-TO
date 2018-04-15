@@ -1,6 +1,6 @@
 # **How to use git**
 
-- [gitコマンド一覧](http://qiita.com/2m1tsu3/items/6d49374230afab251337)  
+- [Basic Git commands](https://rubygarage.org/blog/most-basic-git-commands-with-examples)  
 - [いろいろやらかして困ったとき](http://qiita.com/muran001/items/dea2bbbaea1260098051)
 
 # 最初にやること
