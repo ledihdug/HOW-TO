@@ -11,6 +11,8 @@
  
  http://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html
  
+  - Cudnn đã được download về /home/dung
+ 
 ##  3.Install Tensorflow
  
  https://www.tensorflow.org/install/install_linux#InstallingAnaconda
