@@ -28,6 +28,10 @@
  https://www.tensorflow.org/install/install_linux#InstallingAnaconda
  
  Latest tensorflow-gpu doen't work with cuda9.1 ---> using cuda9.0
+ 
+ 
+ ---> New way to install tf to CUDA 9.1
+ http://www.python36.com/install-tensorflow141-gpu/
   
   http://www.codesofinterest.com/2016/11/setting-up-keras-anaconda-ubuntu.html
  
