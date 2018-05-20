@@ -18,7 +18,12 @@
   $conda create -n myenv python=3.6
   ```
  
-##  3.Install Tensorflow
+##  5.Install Tensorflow to myenv
+  - Activate myenv 
+  ```
+  $source activate myenv
+  ```
+  - Install tensorflow as following
  
  https://www.tensorflow.org/install/install_linux#InstallingAnaconda
  
