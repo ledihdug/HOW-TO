@@ -14,9 +14,9 @@
   - Cudnn đã được download về /home/dung
   
   ## 4. Create a new Conda environment 
-  '''
+  ```
   $conda create -n myenv python=3.6
-  '''
+  ```
  
 ##  3.Install Tensorflow
  
