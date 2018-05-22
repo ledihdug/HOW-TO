@@ -24,7 +24,7 @@
   ```
  
 ##  5.Install Tensorflow to myenv
- # Hien tai dang dung CUDA 8.0 
+ # Hien tai dang dung CUDA 8.0 (2018.5.23)
   - Activate myenv 
   ```
   $source activate myenv
