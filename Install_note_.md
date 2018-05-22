@@ -17,7 +17,7 @@
  http://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html
  
   - Cudnn đã được download về /home/dung
-  
+ 
   ## 4. Create a new Conda environment 
   ```
   $conda create -n myenv python=3.6
@@ -32,8 +32,8 @@
  
  https://www.tensorflow.org/install/install_linux#InstallingAnaconda
  
- Latest tensorflow-gpu doen't work with cuda9.1 ---> using cuda9.0
- 
+ Latest tensorflow-gpu doen't work with cuda9.1 ---> using cuda 8.0 
+  https://qiita.com/mitsuharu_e/items/ecff16bdbcb795a86433
  
  ---> New way to install tf to CUDA 9.1
  http://www.python36.com/install-tensorflow141-gpu/
