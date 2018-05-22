@@ -24,6 +24,7 @@
   ```
  
 ##  5.Install Tensorflow to myenv
+ # Hien tai dang dung CUDA 8.0 
   - Activate myenv 
   ```
   $source activate myenv
@@ -55,3 +56,10 @@ https://devtalk.nvidia.com/default/topic/1024342/cuda-setup-and-installation/una
 
 # location issue ---> I guess beacause we used EN in JAP
 https://askubuntu.com/questions/162391/how-do-i-fix-my-locale-issue
+
+# Jupyter cannot iport tensorflow ---- > 
+
+Reinstall Jupyter in env
+```
+conda install jupyter
+```
