@@ -1,6 +1,6 @@
 # How to Export eps figures from TikZ
 ## For Linux, Mac OS with TeX Live (or MacTeX)
-* Setup tikz externalization as follow 
+* Setup tikz externalization as follow: 
 ```latex
 \documentclass{article}
 \usepackage{tikz}
