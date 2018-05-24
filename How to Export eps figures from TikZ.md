@@ -1,6 +1,6 @@
 # How to Export eps figures from TikZ
 ## For Linux, Mac OS with TeX Live (or MacTeX)
-*Setup tikz externalization as follow 
+* Setup tikz externalization as follow 
 ```latex
 \documentclass{article}
 \usepackage{tikz}
@@ -19,3 +19,4 @@ ps2eps "\image.ps"}}
 \end{tikzpicture}
 \end{document}
 ```
+* Run the tex file with `latex --shell-escape filename.tex` (not `pdflatex!`).
